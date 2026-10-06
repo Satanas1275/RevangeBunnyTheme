@@ -39,14 +39,14 @@
             "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1a0f2699",
-            "#1a0f2699",
-            "#1a0f2699"
+            "#140b1fb3",
+            "#140b1fb3",
+            "#140b1fb3"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#140b1fcc",
-            "#140b1fcc",
-            "#140b1fcc"
+            "#0e0716d9",
+            "#0e0716d9",
+            "#0e0716d9"
         ],
         "BACKGROUND_ACCENT": [
             "#bf86ea",
@@ -79,24 +79,24 @@
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1a0f2699",
-            "#1a0f2699",
-            "#1a0f2699"
+            "#140b1fb3",
+            "#140b1fb3",
+            "#140b1fb3"
         ],
         "BACKGROUND_SECONDARY": [
-            "#140b1fcc",
-            "#140b1fcc",
-            "#140b1fcc"
+            "#0e0716d9",
+            "#0e0716d9",
+            "#0e0716d9"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#140b1fcc",
-            "#140b1fcc",
-            "#140b1fcc"
+            "#0e0716d9",
+            "#0e0716d9",
+            "#0e0716d9"
         ],
         "BACKGROUND_TERTIARY": [
-            "#0e0716cc",
-            "#0e0716cc",
-            "#0e0716cc"
+            "#0a0510e6",
+            "#0a0510e6",
+            "#0a0510e6"
         ],
         "BG_BACKDROP": [
             "#2f1048b3",
@@ -139,9 +139,9 @@
             "#b9a3d6"
         ],
         "CHAT_BACKGROUND": [
-            "transparent",
-            "transparent",
-            "transparent"
+            "#0e07168c",
+            "#0e07168c",
+            "#0e07168c"
         ],
         "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
             "#240f28",
@@ -154,9 +154,9 @@
             "#be81ef"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#2a1745cc",
-            "#2a1745cc",
-            "#2a1745cc"
+            "#2a1745e6",
+            "#2a1745e6",
+            "#2a1745e6"
         ],
         "DEPRECATED_CARD_BG": [
             "#2c0a48",
@@ -449,14 +449,14 @@
             "#dddcde"
         ],
         "TEXT_MUTED": [
-            "#b9a3d6",
-            "#b9a3d6",
-            "#b9a3d6"
+            "#cdb8e8",
+            "#cdb8e8",
+            "#cdb8e8"
         ],
         "TEXT_NORMAL": [
-            "#f5ecff",
-            "#f5ecff",
-            "#f5ecff"
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
         ],
         "TEXT_POSITIVE": [
             "#689d6a",
@@ -516,7 +516,7 @@
         "PLUM_22": "#240f28"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/Satanas1275/RevangeBunnyTheme/main/yeah.png",
+        "url": "https://raw.githubusercontent.com/Satanas1275/RevangeBunnyTheme/main/yeah_dark.jpg",
         "alpha": 1
     },
     "plus": {
